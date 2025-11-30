@@ -417,13 +417,6 @@
 	],
 	"full_day_overrides": [
 		{
-			"occasion": "Thanksgiving Break",
-			"applies": [
-				"2025-11-24 -- 2025-11-28|end"
-			],
-			"schedule": "noSchool"
-		},
-		{
 			"occasion": "Winter Break",
 			"applies": [
 				"2025-12-18 -- 2025-12-19|end",
